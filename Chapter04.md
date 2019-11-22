@@ -315,7 +315,7 @@ Bonuses are in addition to the standard bonuses for fighting in the given manner
 
 **Soothsaying**: The character is subject to premonitions and dreams of the past and future. The Judge will make these visions both cryptic and useful. Once per week, the character can contact higher plane (as the spell).
 
-**Survival**: The character is an expert at hunting small game, gathering fruits and vegetables, and finding water and shelter. The character forages enough food to feed himself automatically, even when on the move, so long as he is in a fairly fertile area. If he is trying to supply more than one person, he must make a proficiency throw (as described in [Wilderness Adventures](Chapter06.md#wilderness-adventures)), but gains a +4 bonus on the roll.
+**Survival (G)**: The character is an expert at hunting small game, gathering fruits and vegetables, and finding water and shelter. The character forages enough food to feed himself automatically, even when on the move, so long as he is in a fairly fertile area. If he is trying to supply more than one person, he must make a proficiency throw (as described in [Wilderness Adventures](Chapter06.md#wilderness-adventures)), but gains a +4 bonus on the roll.
 
 **Swashbuckling**: The character gains a +1 bonus to Armor Class if wearing leather armor or less and able to move freely. At level 7, this bonus increases to +2, and at level 13 the bonus increases to +3.
 
